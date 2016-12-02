@@ -5,4 +5,5 @@ Goal : use the Sevenhugs LUA sdk to take control of a Yamaha Home receiver RX-v4
 
 result : see lua/control/yamaha.lua
 
-docs : see docs/SevenHugsJulienSaito.pdf
+docs : see sevenhugs/doc/SevenHugsJulienSaito.pdf
+
